@@ -53,7 +53,7 @@ function draw(){
     image(img, width/2, y1);
     image(img1, width/20, y2);
     y1++;
-    y2+=2;
+    y2-=2;
 }
 
 
